@@ -3,7 +3,6 @@ package models.pajeobject;
 import java.util.ArrayList;
 import java.util.Objects;
 
-// TODO: только camelCase переменные, никаких snake_case переменных
 public class PageContent {
 
     public int page;
