@@ -1,0 +1,4 @@
+{
+"name": "{$string1}",
+"job": "{$string2}"
+}
